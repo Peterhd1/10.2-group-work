@@ -1,2 +1,2 @@
-# 10.2-group-work
+# HCI VR fitness game
 HCI group project
